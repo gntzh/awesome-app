@@ -36,8 +36,8 @@ module.exports = {
                 '多媒体处理',
                 {
                     title: '开发工具',
-                    path: '/win/开发工具/',
                     children: [
+                        '开发工具/开发工具',
                         '开发工具/编辑器'
                     ]
                 },
