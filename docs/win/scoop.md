@@ -1,13 +1,15 @@
-# Scoop安装清单
+# Scoop管理软件
 
-## 必需
+## 安装清单
+
+### 必需
 
 - 7zip
 - Git
 
-## 命令行工具
+### 命令行工具
 
-主要在`main`仓库中
+主要在`main`仓库中。
 
 - Astyle
 
@@ -28,7 +30,7 @@
 - Redis
 - sudo
 
-## GUI
+### GUI
 
 - Dism++
 - Geek
@@ -39,11 +41,11 @@
 - Spacesniffer
 - SumatraPDF
 
-## 字体
+### 字体
 
 - Cascadia
 
-## 编程语言
+### 编程语言
 
 - JDK（OpenJDK，OracleJDK）
 - Node.js
@@ -53,14 +55,14 @@
 - ~~latex~~（自带更新）
 - Miniconda3（自带更新）
 
-## PowerShell
+### PowerShell
 
 - oh-my-posh
 - posh-git
 - touch
 
-## Java
+### Java
 
 - Maven
-
 - Tomcat
+

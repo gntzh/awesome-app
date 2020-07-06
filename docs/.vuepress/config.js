@@ -5,7 +5,7 @@ module.exports = {
     evergreen: true,
     head: [
         ['link', { rel: 'icon', href: `/favicon.png` },],
-        ['script', { src: `https://at.alicdn.com/t/font_1912560_hjztmu6439p.js` },],
+        ['script', { src: `https://at.alicdn.com/t/font_1912560_jfz1kdte36m.js` },],
     ],
     plugins: [
         '@vuepress/active-header-links',
@@ -21,7 +21,6 @@ module.exports = {
         lastUpdated: '上次编辑',
         nav: [
             { text: 'App', link: '/win/' },
-            { text: 'Github', link: 'https://github.com/ShoorDay/awesome-app' },
         ],
         sidebarDepth: 2,
         collapsable: true,

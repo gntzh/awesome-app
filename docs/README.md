@@ -1,12 +1,12 @@
 ---
 home: true
-actionText: 收集的软件 →
+actionText: 去看看 →
 actionLink: /win/
 features:
 - title: 收集好用的软件
-  details: 虽然名为Awesome，但仅仅是收集个人使用（过）的优秀软件。
+  details: 虽然名为Awesome，但仅仅是收集个人使用（过）的优秀软件，甚至不是软件。
 - title: 个人习惯优先
-  details: 自然全是私货，首先以PC为主，Windows为主，移动端以Android为主。
+  details: 可能夹带私货，语言以中文为主，平台首先以PC为主，Windows为主，移动端以Android为主。
 - title: 标记
   details: 以图标标记软件相关信息，如开源、收费、语言、跨平台等情况。
 ---
@@ -16,7 +16,7 @@ features:
 
 - :if-money: 收费
 - :if-open-source: 开源软件
-- :if-cli: 仅支持命令行工具
+- :if-cli: 仅支持命令行操作
 - :if-in-use: 正在使用
 
 **语言支持**
@@ -25,7 +25,7 @@ features:
 - :if-cn: :if-us: 较少语言支持，使用国旗表示
 
 **跨平台**
-- :if-windows: Windows
+- :if-win: Windows
 - :if-linux: Linux
 - :if-mac: Mac OS
 - :if-android: Android
