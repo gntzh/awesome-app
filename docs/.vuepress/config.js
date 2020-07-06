@@ -35,6 +35,7 @@ module.exports = {
                 '笔记管理',
                 '电子书',
                 '多媒体处理',
+                '字体',
                 {
                     title: '开发工具',
                     children: [
