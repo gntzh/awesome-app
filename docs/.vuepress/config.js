@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Awesome App',
-    description: '收集来的app',
+    description: '收集的app',
     base: '/awesome-app/',
     evergreen: true,
     head: [

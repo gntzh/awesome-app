@@ -17,7 +17,6 @@ features:
 - :if-money: 收费
 - :if-open-source: 开源软件
 - :if-cli: 仅支持命令行操作
-- :if-in-use: 正在使用
 
 **语言支持**
 
